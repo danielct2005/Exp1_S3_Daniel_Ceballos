@@ -26,5 +26,5 @@ BT&Airways, con 25 años en el mercado y una proyección de triplicar sus vuelos
 - **Integridad Referencial:** Definición estricta de claves primarias (PK) y foráneas (FK).
 
 ---
-**Autor:** Daniel Ceballos  
-**Carrera:** Analista Programador
+**Autor:** Daniel Ceballos  --- Catalina Hillmer
+**Carrera:** Analista Programador Computacional
